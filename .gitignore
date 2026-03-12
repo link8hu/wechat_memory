@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Embedded git repos
+wechat-memory-export/
+
+# OpenClaw runtime
+.openclaw/runtime/
