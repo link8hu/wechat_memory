@@ -1,6 +1,13 @@
 # macOS
 .DS_Store
 
+# Node.js
+node_modules/
+dist/
+output/
+.env
+*.log
+
 # Embedded git repos
 wechat-memory-export/
 
